@@ -141,3 +141,13 @@ This dashboard is a complete package for:
 * **Analysts** preparing cricket-based presentations
 * **Data Scientists** exploring sports analytics
 
+
+Screenshots:
+![Screenshot 2025-07-07 214345](https://github.com/user-attachments/assets/81fd14fd-46f3-424b-8044-49e53eb7e20f)
+![Screenshot 2025-07-07 214450](https://github.com/user-attachments/assets/1dc9c145-8825-42f6-ae39-a87d3c10ce76)
+![Screenshot 2025-07-07 214657](https://github.com/user-attachments/assets/ac63df7c-720a-4c36-a8e3-d23fec7b4a1f)
+![Screenshot 2025-07-07 214740](https://github.com/user-attachments/assets/008e219b-3022-4321-826e-698235a2af33)
+![Screenshot 2025-07-07 215353](https://github.com/user-attachments/assets/f103c95b-2cad-4268-bcae-c002a90048f6)
+![Screenshot 2025-07-07 215534](https://github.com/user-attachments/assets/916c718d-6f43-4941-9800-2daacb094726)
+![Screenshot 2025-07-07 220022](https://github.com/user-attachments/assets/25c9f1ec-66ff-4a29-991c-633ca4c451e9)
+![Screenshot 2025-07-07 220154](https://github.com/user-attachments/assets/a6088713-6b09-4d53-99e5-37dd049cb801)
